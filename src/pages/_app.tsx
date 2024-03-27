@@ -5,8 +5,8 @@ import { Metadata } from 'next';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const metadata: Metadata = {
-  title: 'Project',
-  description: 'carousel using swiper library',
+  title: 'Order Nest',
+  description: 'Buy everything from order nest',
 };
 
 
