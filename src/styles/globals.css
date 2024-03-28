@@ -31,7 +31,7 @@
 }
 
 .button-text {
-    background: rebeccapurple !important;
+    background: blueviolet !important;
     color: white !important;
     margin-top: 30px !important;
 }
@@ -64,11 +64,15 @@
 }
 
 .swiper-pagination-bullet-active {
-    background-color: purple !important;
+    background-color: blueviolet !important;
     /* Selected dot color */
     width: 25px !important;
     /* Selected dot width */
     height: 10px !important;
     border-radius: 8 !important;
     /* Selected dot border-radius */
+}
+
+.app-bar-background{
+    background-color: blueviolet;
 }
